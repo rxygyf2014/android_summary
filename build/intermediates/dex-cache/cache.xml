@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="D:\AndroidStudioProjects\Atguigu_Code\app\build\intermediates\pre-dexed\debug\glide-3.7.0-1f3ddf859a86296da03fddcf50d19f29d652df81.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Atguigu_Code\app\build\intermediates\exploded-aar\Atguigu_Code\pullToRefreshViewPager\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="f4019385f7863581eea03825a1095482e87029fd">
+        <dex dex="D:\AndroidStudioProjects\Atguigu_Code\app\build\intermediates\pre-dexed\debug\classes-d5f59e6cf536b09c87750700c951ca65350d833e.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Atguigu_Code\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\0.14.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="b881010e06dc39be15b7465cd16492eedbab246f">
+        <dex dex="D:\AndroidStudioProjects\Atguigu_Code\app\build\intermediates\pre-dexed\debug\classes-5e7aaea90773876a50a9f72c96ea4fdd6447e133.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Atguigu_Code\app\libs\fastjson-1.1.54.android.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="de873c13032fff0b1dcab39a6fb14a3505bc92bb">
+        <dex dex="D:\AndroidStudioProjects\Atguigu_Code\app\build\intermediates\pre-dexed\debug\fastjson-1.1.54.android-977ecf4595edc17ebe862d2646c97a2b19000561.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Atguigu_Code\app\libs\universal-image-loader-1.9.5.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375">
+        <dex dex="D:\AndroidStudioProjects\Atguigu_Code\app\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.5-fdae99a6c74e472e2da2c2859bcdf9eb8129bd5a.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Atguigu_Code\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\0.14.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="cf5e2940501f8f7b9175df6491cebb84f5690f14">
+        <dex dex="D:\AndroidStudioProjects\Atguigu_Code\app\build\intermediates\pre-dexed\debug\classes-0276e52f6d2715e32446b7e9cacde566d64bab84.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Atguigu_Code\app\build\intermediates\exploded-aar\Atguigu_Code\universalvideoview\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="6801aed1c3764fdc7a34e2628f90023b849191ea">
+        <dex dex="D:\AndroidStudioProjects\Atguigu_Code\app\build\intermediates\pre-dexed\debug\classes-7004c4a1a97cb2ce4ca0ee6985cf620ac45dcd8b.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Atguigu_Code\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp3\0.12.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="0623aeca2e2ff93e7de92f5dacb892b5c285f0e8">
+        <dex dex="D:\AndroidStudioProjects\Atguigu_Code\app\build\intermediates\pre-dexed\debug\classes-7f71e0e8d325b9ab5b4fec483ae4db0263ca001f.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Atguigu_Code\app\libs\gson-2.7.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="D:\AndroidStudioProjects\Atguigu_Code\app\build\intermediates\pre-dexed\debug\gson-2.7-f52fe3642b081fe6d3f5c7635b356eba75c0a20d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="D:\AndroidStudioProjects\Atguigu_Code\app\build\intermediates\pre-dexed\debug\okio-1.6.0-c410569bd3ae660f2a7eceb3af69efc833b46b70.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Atguigu_Code\app\build\intermediates\exploded-aar\Atguigu_Code\xutils\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="0259268905027afef4ea3f43dfd234f28bc47ffb">
+        <dex dex="D:\AndroidStudioProjects\Atguigu_Code\app\build\intermediates\pre-dexed\debug\classes-8ad17ea05a99241d4864efc721cdb3d569769436.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Atguigu_Code\app\build\intermediates\exploded-aar\Atguigu_Code\okhttputils\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="75e007128d8158c04ee77fc99ad17449f8f5403e">
+        <dex dex="D:\AndroidStudioProjects\Atguigu_Code\app\build\intermediates\pre-dexed\debug\classes-0a7d96377631626783cc98c24ed292e5cc0fe946.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.0.1\b34c1f2d993044656e87f88970b6818e99e886ba\okhttp-3.0.1.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="b34c1f2d993044656e87f88970b6818e99e886ba">
+        <dex dex="D:\AndroidStudioProjects\Atguigu_Code\app\build\intermediates\pre-dexed\debug\okhttp-3.0.1-6c4a13f1ae29fbf79d4daae798a189678a938639.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Atguigu_Code\app\libs\eventbus-3.0.0.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="ddd99896e9569eaababbe81b35d80e1b91c4ad85">
+        <dex dex="D:\AndroidStudioProjects\Atguigu_Code\app\build\intermediates\pre-dexed\debug\eventbus-3.0.0-23a01afdd8e176472ead400b9b5e50e5d9e0465a.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Atguigu_Code\app\libs\afinal_0.5.1_bin.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="ae398c74701392473b9cb488c76a92576d6f548c">
+        <dex dex="D:\AndroidStudioProjects\Atguigu_Code\app\build\intermediates\pre-dexed\debug\afinal_0.5.1_bin-76fb22a2cdd8c585fd54772922f5aa195d70daa9.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Atguigu_Code\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\0.14.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="8795af3e130206443f2d5ed45f1b26067aff70dc">
+        <dex dex="D:\AndroidStudioProjects\Atguigu_Code\app\build\intermediates\pre-dexed\debug\classes-03f469657006139a1df885ebe03b28a428da0024.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Atguigu_Code\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="D:\AndroidStudioProjects\Atguigu_Code\app\build\intermediates\pre-dexed\debug\classes-4d253a22b89b071b120cd23929330bd2e9fd0d9b.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Atguigu_Code\app\build\intermediates\exploded-aar\jp.co.cyberagent.android.gpuimage\gpuimage-library\1.4.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="eb9f1cef6b29492df701111c555908cb53dece35">
+        <dex dex="D:\AndroidStudioProjects\Atguigu_Code\app\build\intermediates\pre-dexed\debug\classes-8948c28214d3049b1fa3c964392c57722828c74e.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Atguigu_Code\app\build\intermediates\exploded-aar\Atguigu_Code\pullToRefreshListFragment\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="8bf9d72c859999a4e16dd5a0dccfd2ce16c40fed">
+        <dex dex="D:\AndroidStudioProjects\Atguigu_Code\app\build\intermediates\pre-dexed\debug\classes-08de36ed92c4f0fda8bcf44f90ea40f11b18c574.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Atguigu_Code\app\build\intermediates\exploded-aar\com.facebook.fresco\animated-base\0.14.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="4586985d8e3ab9baaaa0f7a7d5a1b46bec20816f">
+        <dex dex="D:\AndroidStudioProjects\Atguigu_Code\app\build\intermediates\pre-dexed\debug\classes-4af20d8f85013060aceea031b844f9b9bda1c232.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Atguigu_Code\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\0.14.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="e5bf70f3683146e4875c006624543cb0a13eac91">
+        <dex dex="D:\AndroidStudioProjects\Atguigu_Code\app\build\intermediates\pre-dexed\debug\classes-fe591a78189837bcebdc39b8519c9a2caebecfc6.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Atguigu_Code\app\build\intermediates\exploded-aar\jp.wasabeef\glide-transformations\2.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="df451c6f391e3e32022fc964ed87bd57a5869128">
+        <dex dex="D:\AndroidStudioProjects\Atguigu_Code\app\build\intermediates\pre-dexed\debug\classes-228e17bee775f5ab824fc0210c06273b9dc1559e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="D:\AndroidStudioProjects\Atguigu_Code\app\build\intermediates\pre-dexed\debug\picasso-2.5.2-2428dbd5eabf65ae69bc01abd6e4b72d08e545aa.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Atguigu_Code\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="D:\AndroidStudioProjects\Atguigu_Code\app\build\intermediates\pre-dexed\debug\classes-3522e783a5cdbea1407173c7bcf0cd02529a3c7b.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Atguigu_Code\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\0.14.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="c77602d43223db798b1ca56cf307ab0ee3c0e63f">
+        <dex dex="D:\AndroidStudioProjects\Atguigu_Code\app\build\intermediates\pre-dexed\debug\classes-89d9474bd2e32f41f2d487cad9c2e73959d672a2.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Atguigu_Code\app\libs\volley.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="813c3f25e85b084b33910bad70ee9b314a774029">
+        <dex dex="D:\AndroidStudioProjects\Atguigu_Code\app\build\intermediates\pre-dexed\debug\volley-93c37c8ec664ee619d5cb1f259241ed03a33b58e.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Atguigu_Code\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="D:\AndroidStudioProjects\Atguigu_Code\app\build\intermediates\pre-dexed\debug\classes-41ceb3f6afc7a33ac3dcd9e432d30fe7358daed9.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Atguigu_Code\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="D:\AndroidStudioProjects\Atguigu_Code\app\build\intermediates\pre-dexed\debug\classes-a33d54c27761d4cbdf2e83739367b722a7005c66.jar" />
+    </item>
+    <item
+        jar="D:\AndroidSDK\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="D:\AndroidStudioProjects\Atguigu_Code\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1-0d9fa9b5eb303fceb887783e1e4c87c9e1fa0637.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Atguigu_Code\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="D:\AndroidStudioProjects\Atguigu_Code\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1-422d92bddca50d9705b5600539ae0435396695c1.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Atguigu_Code\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="D:\AndroidStudioProjects\Atguigu_Code\app\build\intermediates\pre-dexed\debug\classes-a74cb8d76c0fa8a6acbe7534304742b4f0a990a4.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Atguigu_Code\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="D:\AndroidStudioProjects\Atguigu_Code\app\build\intermediates\pre-dexed\debug\classes-1c1329668561525c2aa3bd7addeb32535b826f5b.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Atguigu_Code\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="D:\AndroidStudioProjects\Atguigu_Code\app\build\intermediates\pre-dexed\debug\classes-c5528b4bba923ba37a981e65358c4bf65d3c31fe.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Atguigu_Code\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="D:\AndroidStudioProjects\Atguigu_Code\app\build\intermediates\pre-dexed\debug\classes-9feba755500fe1148693e035e605b9cd52d85eab.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Atguigu_Code\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\AndroidStudioProjects\Atguigu_Code\app\build\intermediates\pre-dexed\debug\classes-5b36669af2f231b9f8986d19bc553b8712515b84.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Atguigu_Code\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="D:\AndroidStudioProjects\Atguigu_Code\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1-b59766d9296c3f8212d9a97208091f037c8a5eec.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Atguigu_Code\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="D:\AndroidStudioProjects\Atguigu_Code\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1-9f499308d08074fb0bc28317b65f0b361d7d4c66.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="D:\AndroidStudioProjects\Atguigu_Code\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0-c64325f78a24c085b700c554244dc03fa6bc6a89.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Atguigu_Code\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="D:\AndroidStudioProjects\Atguigu_Code\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1-ef0b2a15cfd295fa9a943b975c122fe599ed131e.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Atguigu_Code\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="D:\AndroidStudioProjects\Atguigu_Code\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1-4879f26ed7681e5d0d469a970c8bd9e8caa076a4.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Atguigu_Code\app\build\intermediates\exploded-aar\Atguigu_Code\PullToRefresh_library\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="6530cb8c894ac8784f58c090c76e0add18b7531b">
+        <dex dex="D:\AndroidStudioProjects\Atguigu_Code\app\build\intermediates\pre-dexed\debug\classes-ced9fb6c5506d3658941f6a40c447d0aa9524780.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Atguigu_Code\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="D:\AndroidStudioProjects\Atguigu_Code\app\build\intermediates\pre-dexed\debug\classes-92cc610d7107a5bc6a24b58f0c377a1349d6deed.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Atguigu_Code\app\build\intermediates\exploded-aar\jp.wasabeef\picasso-transformations\2.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="3fb1fe781490fcf9fa47ee2c268279f777266a6a">
+        <dex dex="D:\AndroidStudioProjects\Atguigu_Code\app\build\intermediates\pre-dexed\debug\classes-b1cbff6205b5c70f99c0b0a470023f8f2c1172d0.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Atguigu_Code\app\build\intermediates\exploded-aar\com.facebook.fresco\animated-gif\0.14.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="33d3c017a51ad5721e1d6c6be82239ab73e5458b">
+        <dex dex="D:\AndroidStudioProjects\Atguigu_Code\app\build\intermediates\pre-dexed\debug\classes-41e3ce47d2e24d2c6836e82ea6603bcf4638dde3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\7.0.1\d5d13ea991eab0252e3710e5df3d6a9d4b21d461\butterknife-7.0.1.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="D:\AndroidStudioProjects\Atguigu_Code\app\build\intermediates\pre-dexed\debug\butterknife-7.0.1-fc861cbde294a7e4a9efd57936d766cb077b60e2.jar" />
+    </item>
+
+</items>
